@@ -1,5 +1,19 @@
 # face-mask-detect
 
+- OpenCV
+- Keas
+- TensorFlow
+- MobileNetV2
+- Python
+
+Datasets (zipped) :
+- With-mask : 690 photos
+- Incorrect-mask : 101 photos
+- Without-mask : 686 photos
+
+References :
+- https://github.com/cabani/MaskedFace-Net
+- https://falahgs.medium.com/face-mask-detection-using-mobilenetv2-transfer-learning-957462e4abd0
 
 Result :
 
