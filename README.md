@@ -9,7 +9,7 @@
 
 Datasets (zipped) :
 - With-mask : 690 photos
-- Incorrect-mask : 101 photos
+- Incorrect-mask : 703 photos
 - Without-mask : 686 photos
 
 References :
