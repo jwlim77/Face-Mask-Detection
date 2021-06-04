@@ -1,10 +1,11 @@
 # face-mask-detect
 
-- OpenCV
-- Keas
+- Python
 - TensorFlow
 - MobileNetV2
-- Python
+- OpenCV
+- Keras
+
 
 Datasets (zipped) :
 - With-mask : 690 photos
