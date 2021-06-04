@@ -1,4 +1,4 @@
-# Face-Mask-Detect
+# Face-Mask-Detection
 
 - Python
 - TensorFlow
